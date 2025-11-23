@@ -3,6 +3,8 @@
 <h3 align="center">Web Developer | AI Enthusiast | Cloud Learner from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimadeel894-boop&label=Profile%20views&color=0e75b6&style=flat" alt="saimadeel894-boop" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SAIM ADEEL)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
