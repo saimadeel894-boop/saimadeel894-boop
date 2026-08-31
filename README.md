@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm  SAIM ADEEL</h1>
-<h3 align="center">🚀 Senior Full-Stack & AI Systems Engineer | RUDN Olympiad 1st Place Winner | micro1 Certified[cite: 1]</h3>
+<h1 align="center">Hi 👋, I'm MUHAMMAD SAIM ADEEL</h1>
+<h3 align="center">🚀 Senior Full-Stack & AI Systems Engineer | RUDN Olympiad 1st Place Winner | micro1 Certified</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saimadeel894-boop&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
+<!-- GitHub Profile Trophies Integration -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saimadeel894-boop&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saimadeel894-boop&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -15,17 +18,17 @@
   <i>"Senior Full-Stack & AI Systems Engineer and 1st Place Winner of the RUDN International Olympiad in Computer Science (2026) with 5+ years of experience architecting high-throughput web architectures, enterprise SaaS platforms, and production LLM evaluation pipelines[cite: 1]."</i>
 </p>
 
-- 💼 **Current Role:** Senior Full-Stack & AI Engineer | Senior Full-Stack Engineer at **AfterQuery** — Pluto Team[cite: 1].
-- 🏆 **Major Honors:** 1st Place Winner - RUDN University International Olympiad in Computer Science (2026) & micro1 Certified Senior Full-Stack Engineer[cite: 1].
+- 💼 **Current Role:** Senior Full-Stack & AI Engineer | Senior Full-Stack Engineer at **AfterQuery** — Pluto Team.
+- 🏆 **Major Honors:** 1st Place Winner - RUDN University International Olympiad in Computer Science (2026) & micro1 Certified Senior Full-Stack Engineer.
 
 ---
 
 ## 🚀 What I Build
 
-- 🤖 **AI-Powered SaaS Platforms** — OpenAI GPT-4 integrations, matching engines, agentic workflows, RAG pipelines[cite: 1]
-- 💻 **Full-Stack Web Applications** — React, Next.js 14/15, Node.js, TypeScript, Python (FastAPI/Django)[cite: 1]
+- 🤖 **AI-Powered SaaS Platforms** — OpenAI GPT-4 integrations, matching engines, agentic workflows, RAG pipelines
+- 💻 **Full-Stack Web Applications** — React, Next.js 14/15, Node.js, TypeScript, Python (FastAPI/Django)
 - 📱 **Cross-Platform Mobile Apps** — React Native, Expo SDK, iOS & Android[cite: 1]
-- ⚡ **Real-Time Systems & Distributed Architectures** — WebSockets, microservices, high-throughput PostgreSQL/Supabase DBs[cite: 1]
+- ⚡ **Real-Time Systems & Distributed Architectures** — WebSockets, microservices, high-throughput PostgreSQL/Supabase DBs
 
 ---
 
@@ -63,16 +66,16 @@
 | **Vunex.live** | $15,000 trading terminal featuring 16 live pairs and Three.js 3D UI[cite: 1]. | React, Three.js, WebSockets, Binance API | [🔗 View Live](https://3-d-trading-website.vercel.app) |
 | **ELD Trip Planner** | FMCSA regulatory compliance scheduling engine with dynamic geospatial routing[cite: 1]. | Django, Python, React, Leaflet.js | [🔗 View Live](https://fmcsa-eld-trip-planner.vercel.app) |
 | **AI Humanizer** | SaaS text rewriting tool featuring iterative multi-pass LLM rewriting pipelines[cite: 1]. | Next.js 15, OpenAI GPT-4 API | [🔗 View Live](https://ai-humanize-saas-tool.vercel.app) |
-| **Geniu** | AI learning platform for kids featuring 30+ interactive screens[cite: 1]. | React Native, Expo, Supabase, OpenAI | *In Development*[cite: 1] |
+| **Geniu** | AI learning platform for kids featuring 30+ interactive screens[cite: 1]. | React Native, Expo, Supabase, OpenAI | *In Development* |
 
 ---
 
 ## 📜 Honors & Certifications
 
-- 🥇 **1st Place Winner - RUDN University International Olympiad in Computer Science (2026)** — Ranked #1 in competitive programming, algorithmic complexity, and systems programming[cite: 1].
-- 🏅 **micro1 Certified Senior Full-Stack Engineer (2026)** — Awarded top-tier global ranking following rigorous live proctored coding and architecture evaluations[cite: 1].
+- 🥇 **1st Place Winner - RUDN University International Olympiad in Computer Science (2026)** — Ranked #1 in competitive programming, algorithmic complexity, and systems programming.
+- 🏅 **micro1 Certified Senior Full-Stack Engineer (2026)** — Awarded top-tier global ranking following rigorous live proctored coding and architecture evaluations.
 - 📜 **Applied Data Science with Python** — Simplilearn SkillUp (2025)[cite: 1].
-- 📜 **Artificial Intelligence & Learning Models** — Cambridge International Qualifications / UniAthena, UK (2025)[cite: 1].
+- 📜 **Artificial Intelligence & Learning Models** — Cambridge International Qualifications / UniAthena, UK (2025).
 
 ---
 
@@ -85,7 +88,7 @@
 - 👨‍💻 **All of my projects are available at:** [Netlify Team Projects](https://app.netlify.com/teams/saimadeel894-boop/projects)
 - 📝 **I regularly write articles on:** [Tableau Learning Articles](https://www.tableau.com/learn/articles/blogs-about-machine-learning-artificial-intelligence)
 - 💬 **Ask me about:** Frontend development - JavaScript / TypeScript - Cloud hosting & deployment - AI tools and workflows
-- 📫 **How to reach me:** saimadeel894@gmail.com[cite: 1]
+- 📫 **How to reach me:** saimadeel894@gmail.com
 - ⚡ **Fun fact:** I can write code faster than I can decide what to eat.
 
 ---
@@ -139,4 +142,4 @@
 </p>
 
 ---
-*Available for remote contracts and full-time roles worldwide. Any timezone[cite: 1].*
+*Available for remote contracts and full-time roles worldwide. Any timezone.*
