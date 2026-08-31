@@ -1,44 +1,53 @@
-# Hi, I'm Saim Adeel 👋
+<h1 align="center">Hi 👋, I'm  SAIM ADEEL</h1>
+<h3 align="center">🚀 Senior Full-Stack & AI Systems Engineer | RUDN Olympiad 1st Place Winner | micro1 Certified[cite: 1]</h3>
 
-Senior Full-Stack Web & App Developer with 5+ years and 100+ production projects shipped for international clients across Germany, UAE, USA, and UK.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saimadeel894-boop&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
-Currently Senior Full-Stack Engineer at **AfterQuery** — Pluto Team.  
-Certified by **micro1** — the AI hiring platform trusted by OpenAI and Anthropic.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saimadeel894-boop&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Senior Full-Stack & AI Systems Engineer and 1st Place Winner of the RUDN International Olympiad in Computer Science (2026) with 5+ years of experience architecting high-throughput web architectures, enterprise SaaS platforms, and production LLM evaluation pipelines[cite: 1]."</i>
+</p>
+
+- 💼 **Current Role:** Senior Full-Stack & AI Engineer | Senior Full-Stack Engineer at **AfterQuery** — Pluto Team[cite: 1].
+- 🏆 **Major Honors:** 1st Place Winner - RUDN University International Olympiad in Computer Science (2026) & micro1 Certified Senior Full-Stack Engineer[cite: 1].
 
 ---
 
 ## 🚀 What I Build
 
-- **AI-Powered SaaS Platforms** — OpenAI GPT-4 integrations, matching engines, agentic workflows
-- **Full-Stack Web Applications** — React, Next.js 14, Node.js, TypeScript
-- **Cross-Platform Mobile Apps** — React Native, Expo SDK, iOS & Android
-- **Real-Time Systems** — WebSockets, live trading terminals, collaborative tools
+- 🤖 **AI-Powered SaaS Platforms** — OpenAI GPT-4 integrations, matching engines, agentic workflows, RAG pipelines[cite: 1]
+- 💻 **Full-Stack Web Applications** — React, Next.js 14/15, Node.js, TypeScript, Python (FastAPI/Django)[cite: 1]
+- 📱 **Cross-Platform Mobile Apps** — React Native, Expo SDK, iOS & Android[cite: 1]
+- ⚡ **Real-Time Systems & Distributed Architectures** — WebSockets, microservices, high-throughput PostgreSQL/Supabase DBs[cite: 1]
 
 ---
 
 ## 🛠️ Tech Stack & Badges
 
-**Frontend**  
+**Core Languages & Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend**  
+**Backend, Database & Cloud**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Database**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
-
-**Mobile**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **AI & Automation**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -47,22 +56,23 @@ Certified by **micro1** — the AI hiring platform trusted by OpenAI and Anthrop
 
 ## 🏆 Key Projects
 
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| **BeautyChain** | AI SaaS — GPT-4 matching engine, escrow payments, real-time messaging | React, Node.js, OpenAI, Supabase | [Live](https://brand-builder-launch.vercel.app) |
-| **AutoMarket.de** | German automotive marketplace with SSR and multi-role auth | Next.js 14, NestJS, PostgreSQL | [Live](https://german-motor-car-demo-website.vercel.app) |
-| **Vunex.live** | $15,000 trading terminal — 16 live pairs, Three.js 3D UI | React, Three.js, WebSockets, Binance API | [Live](https://3-d-trading-website.vercel.app) |
-| **ELD Trip Planner** | FMCSA regulatory compliance scheduling engine | Django, Python, React, Leaflet.js | [Live](https://fmcsa-eld-trip-planner.vercel.app) |
-| **AI Humanizer** | SaaS text rewriting tool using GPT-4 pipelines | Next.js, OpenAI GPT-4 | [Live](https://ai-humanize-saas-tool.vercel.app) |
-| **Geniu** | AI learning platform for kids — 30+ screens | React Native, Expo, Supabase, OpenAI | In Development |
+| Project | Description | Stack | Live Demo |
+|---------|-------------|-------|-----------|
+| **BeautyChain** | AI-driven B2B marketplace SaaS featuring automated GPT-4 scoring, Stripe escrow, and WebSockets[cite: 1]. | React, TypeScript, Supabase, OpenAI | [🔗 View Live](https://brand-builder-launch.vercel.app) |
+| **AutoMarket.de** | High-scale automotive marketplace handling 5,000+ listings with SSR and Redis caching[cite: 1]. | Next.js 14, NestJS, PostgreSQL, Redis | [🔗 View Live](https://german-motor-car-demo-website.vercel.app) |
+| **Vunex.live** | $15,000 trading terminal featuring 16 live pairs and Three.js 3D UI[cite: 1]. | React, Three.js, WebSockets, Binance API | [🔗 View Live](https://3-d-trading-website.vercel.app) |
+| **ELD Trip Planner** | FMCSA regulatory compliance scheduling engine with dynamic geospatial routing[cite: 1]. | Django, Python, React, Leaflet.js | [🔗 View Live](https://fmcsa-eld-trip-planner.vercel.app) |
+| **AI Humanizer** | SaaS text rewriting tool featuring iterative multi-pass LLM rewriting pipelines[cite: 1]. | Next.js 15, OpenAI GPT-4 API | [🔗 View Live](https://ai-humanize-saas-tool.vercel.app) |
+| **Geniu** | AI learning platform for kids featuring 30+ interactive screens[cite: 1]. | React Native, Expo, Supabase, OpenAI | *In Development*[cite: 1] |
 
 ---
 
-## 📜 Certifications
+## 📜 Honors & Certifications
 
-- **micro1 Certified Senior Full Stack Web & App Developer** — April 2026  
-  Platform trusted by OpenAI and Anthropic. Pass rate below 20%.
-- **Senior Full-Stack Engineer** — AfterQuery Pluto Team — June 2026
+- 🥇 **1st Place Winner - RUDN University International Olympiad in Computer Science (2026)** — Ranked #1 in competitive programming, algorithmic complexity, and systems programming[cite: 1].
+- 🏅 **micro1 Certified Senior Full-Stack Engineer (2026)** — Awarded top-tier global ranking following rigorous live proctored coding and architecture evaluations[cite: 1].
+- 📜 **Applied Data Science with Python** — Simplilearn SkillUp (2025)[cite: 1].
+- 📜 **Artificial Intelligence & Learning Models** — Cambridge International Qualifications / UniAthena, UK (2025)[cite: 1].
 
 ---
 
@@ -72,17 +82,17 @@ Certified by **micro1** — the AI hiring platform trusted by OpenAI and Anthrop
 - 🌱 **I’m currently learning:** React, Vue, and GSAP - Machine Learning & Deep Learning - Cloud Computing (Supabase, AWS) - AI Agents and automation
 - 👯 **I’m looking to collaborate on:** React & Next.js projects - AI/ML applications - Cloud-based automation tools
 - 🤝 **I’m looking for help with:** Deep learning model deployment - Scalable backend architectures
-- 👨‍💻 **All of my projects are available at:** [PORTFOLIO](https://3-d-portfolio-website-gilt.vercel.app/)
+- 👨‍💻 **All of my projects are available at:** [Netlify Team Projects](https://app.netlify.com/teams/saimadeel894-boop/projects)
 - 📝 **I regularly write articles on:** [Tableau Learning Articles](https://www.tableau.com/learn/articles/blogs-about-machine-learning-artificial-intelligence)
 - 💬 **Ask me about:** Frontend development - JavaScript / TypeScript - Cloud hosting & deployment - AI tools and workflows
-- 📫 **How to reach me:** saimadeel894@gmail.com
+- 📫 **How to reach me:** saimadeel894@gmail.com[cite: 1]
 - ⚡ **Fun fact:** I can write code faster than I can decide what to eat.
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/saim-adeel-890a67376" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saim-adeel-890267376" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/share/17sabbubbk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/saim_adeel34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
@@ -125,8 +135,8 @@ Certified by **micro1** — the AI hiring platform trusted by OpenAI and Anthrop
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimadeel894-boop&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimadeel894-boop&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saimadeel894-boop&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
-*Available for remote contracts and full-time roles worldwide. Any timezone.*
+*Available for remote contracts and full-time roles worldwide. Any timezone[cite: 1].*
