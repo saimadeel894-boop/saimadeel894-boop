@@ -133,7 +133,7 @@
 ---
 
 ### 📊 GitHub Stats & Streaks:
-### 📊 GitHub Stats & Streaks:
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saimadeel894-boop&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
