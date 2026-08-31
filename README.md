@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD SAIM ADEEL</h1>
+<h1 align="center">Hi 👋, I'm  SAIM ADEEL</h1>
 <h3 align="center">🚀 Senior Full-Stack & AI Systems Engineer | RUDN Olympiad 1st Place Winner | micro1 Certified</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <i>"Senior Full-Stack & AI Systems Engineer and 1st Place Winner of the RUDN International Olympiad in Computer Science (2026) with 5+ years of experience architecting high-throughput web architectures, enterprise SaaS platforms, and production LLM evaluation pipelines[cite: 1]."</i>
+  <i>"Senior Full-Stack & AI Systems Engineer and 1st Place Winner of the RUDN International Olympiad in Computer Science (2026) with 5+ years of experience architecting high-throughput web architectures, enterprise SaaS platforms, and production LLM evaluation pipelines."</i>
 </p>
 
 - 💼 **Current Role:** Senior Full-Stack & AI Engineer | Senior Full-Stack Engineer at **AfterQuery** — Pluto Team.
@@ -27,7 +27,7 @@
 
 - 🤖 **AI-Powered SaaS Platforms** — OpenAI GPT-4 integrations, matching engines, agentic workflows, RAG pipelines
 - 💻 **Full-Stack Web Applications** — React, Next.js 14/15, Node.js, TypeScript, Python (FastAPI/Django)
-- 📱 **Cross-Platform Mobile Apps** — React Native, Expo SDK, iOS & Android[cite: 1]
+- 📱 **Cross-Platform Mobile Apps** — React Native, Expo SDK, iOS & Android
 - ⚡ **Real-Time Systems & Distributed Architectures** — WebSockets, microservices, high-throughput PostgreSQL/Supabase DBs
 
 ---
@@ -61,12 +61,12 @@
 
 | Project | Description | Stack | Live Demo |
 |---------|-------------|-------|-----------|
-| **BeautyChain** | AI-driven B2B marketplace SaaS featuring automated GPT-4 scoring, Stripe escrow, and WebSockets[cite: 1]. | React, TypeScript, Supabase, OpenAI | [🔗 View Live](https://brand-builder-launch.vercel.app) |
-| **AutoMarket.de** | High-scale automotive marketplace handling 5,000+ listings with SSR and Redis caching[cite: 1]. | Next.js 14, NestJS, PostgreSQL, Redis | [🔗 View Live](https://german-motor-car-demo-website.vercel.app) |
-| **Vunex.live** | $15,000 trading terminal featuring 16 live pairs and Three.js 3D UI[cite: 1]. | React, Three.js, WebSockets, Binance API | [🔗 View Live](https://3-d-trading-website.vercel.app) |
-| **ELD Trip Planner** | FMCSA regulatory compliance scheduling engine with dynamic geospatial routing[cite: 1]. | Django, Python, React, Leaflet.js | [🔗 View Live](https://fmcsa-eld-trip-planner.vercel.app) |
-| **AI Humanizer** | SaaS text rewriting tool featuring iterative multi-pass LLM rewriting pipelines[cite: 1]. | Next.js 15, OpenAI GPT-4 API | [🔗 View Live](https://ai-humanize-saas-tool.vercel.app) |
-| **Geniu** | AI learning platform for kids featuring 30+ interactive screens[cite: 1]. | React Native, Expo, Supabase, OpenAI | *In Development* |
+| **BeautyChain** | AI-driven B2B marketplace SaaS featuring automated GPT-4 scoring, Stripe escrow, and WebSockets. | React, TypeScript, Supabase, OpenAI | [🔗 View Live](https://brand-builder-launch.vercel.app) |
+| **AutoMarket.de** | High-scale automotive marketplace handling 5,000+ listings with SSR and Redis caching. | Next.js 14, NestJS, PostgreSQL, Redis | [🔗 View Live](https://german-motor-car-demo-website.vercel.app) |
+| **Vunex.live** | $15,000 trading terminal featuring 16 live pairs and Three.js 3D UI. | React, Three.js, WebSockets, Binance API | [🔗 View Live](https://3-d-trading-website.vercel.app) |
+| **ELD Trip Planner** | FMCSA regulatory compliance scheduling engine with dynamic geospatial routing. | Django, Python, React, Leaflet.js | [🔗 View Live](https://fmcsa-eld-trip-planner.vercel.app) |
+| **AI Humanizer** | SaaS text rewriting tool featuring iterative multi-pass LLM rewriting pipelines. | Next.js 15, OpenAI GPT-4 API | [🔗 View Live](https://ai-humanize-saas-tool.vercel.app) |
+| **Geniu** | AI learning platform for kids featuring 30+ interactive screens. | React Native, Expo, Supabase, OpenAI | *In Development* |
 
 ---
 
@@ -74,7 +74,7 @@
 
 - 🥇 **1st Place Winner - RUDN University International Olympiad in Computer Science (2026)** — Ranked #1 in competitive programming, algorithmic complexity, and systems programming.
 - 🏅 **micro1 Certified Senior Full-Stack Engineer (2026)** — Awarded top-tier global ranking following rigorous live proctored coding and architecture evaluations.
-- 📜 **Applied Data Science with Python** — Simplilearn SkillUp (2025)[cite: 1].
+- 📜 **Applied Data Science with Python** — Simplilearn SkillUp (2025).
 - 📜 **Artificial Intelligence & Learning Models** — Cambridge International Qualifications / UniAthena, UK (2025).
 
 ---
@@ -85,7 +85,7 @@
 - 🌱 **I’m currently learning:** React, Vue, and GSAP - Machine Learning & Deep Learning - Cloud Computing (Supabase, AWS) - AI Agents and automation
 - 👯 **I’m looking to collaborate on:** React & Next.js projects - AI/ML applications - Cloud-based automation tools
 - 🤝 **I’m looking for help with:** Deep learning model deployment - Scalable backend architectures
-- 👨‍💻 **All of my projects are available at:** [Netlify Team Projects](https://app.netlify.com/teams/saimadeel894-boop/projects)
+- 👨‍💻 **All of my projects are available at:** [3D Portfolio Website](https://3-d-portfolio-website-gilt.vercel.app/)
 - 📝 **I regularly write articles on:** [Tableau Learning Articles](https://www.tableau.com/learn/articles/blogs-about-machine-learning-artificial-intelligence)
 - 💬 **Ask me about:** Frontend development - JavaScript / TypeScript - Cloud hosting & deployment - AI tools and workflows
 - 📫 **How to reach me:** saimadeel894@gmail.com
