@@ -68,7 +68,7 @@
 | **Vunex.live** | $15,000 trading terminal featuring 16 live pairs and Three.js 3D UI[cite: 1]. | React, Three.js, WebSockets, Binance API[cite: 1] | [🔗 View Live](https://3-d-trading-website.vercel.app) |
 | **ELD Trip Planner** | FMCSA regulatory compliance scheduling engine with dynamic geospatial routing[cite: 1]. | Django, Python, React, Leaflet.js[cite: 1] | [🔗 View Live](https://fmcsa-eld-trip-planner.vercel.app) |
 | **AI Humanizer** | SaaS text rewriting tool featuring iterative multi-pass LLM rewriting pipelines[cite: 1]. | Next.js 15, OpenAI GPT-4 API[cite: 1] | [🔗 View Live](https://ai-humanize-saas-tool.vercel.app) |
-| **Geniu** | AI learning platform for kids featuring 30+ interactive screens[cite: 1]. | React Native, Expo, Supabase, OpenAI[cite: 1] | *In Development*[cite: 1] |
+| **Geniu** | AI learning platform for kids featuring 30+ interactive screens[cite: 1]. | React Native, Expo, Supabase, OpenAI[cite: 1] | *In Development* |
 
 ---
 
@@ -133,14 +133,18 @@
 ---
 
 ### 📊 GitHub Stats & Streaks:
+### 📊 GitHub Stats & Streaks:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saimadeel894-boop&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimadeel894-boop&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.herokuapp.com/?user=saimadeel894-boop&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=saimadeel894-boop&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
