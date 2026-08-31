@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm  SAIM ADEEL</h1>
+<h1 align="center">Hi 👋, I'm MUHAMMAD SAIM ADEEL</h1>
 <h3 align="center">🚀 Senior Full-Stack & AI Systems Engineer | RUDN Olympiad 1st Place Winner | micro1 Certified</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saimadeel894-boop&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- GitHub Profile Trophies Integration -->
+<!-- GitHub Profile Trophies (Using stable mirror endpoint to prevent load errors) -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saimadeel894-boop&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=saimadeel894-boop&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
